@@ -26,4 +26,4 @@ docker run -v ${PWD}:/app -e DATASET_ID=“nc67-uf89” -e APP_TOKEN=“” -e E
 
 ## Kibana Dashboard
 
-<img src="/project01/assets/kibanadashboard.png" width=1000>
+<img src="/project01/assets/kibanadashboard.png" width=100>
